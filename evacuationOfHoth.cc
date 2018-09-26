@@ -1,4 +1,4 @@
-//Neusa Antonia Romao Caxicane/dni-y3080401w
+
 #include <iostream>
 #include <fstream>
 #include <vector>
